@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/anytime-mall/static/css/main.3c5ddbee.css",
+    "main.js": "/anytime-mall/static/js/main.d72476d5.js",
+    "static/js/787.fe0e4ddc.chunk.js": "/anytime-mall/static/js/787.fe0e4ddc.chunk.js",
+    "static/media/logo-github.svg": "/anytime-mall/static/media/logo-github.080591513b1a3eb8fdfe0257830eaff1.svg",
+    "index.html": "/anytime-mall/index.html",
+    "static/media/trash-outline.svg": "/anytime-mall/static/media/trash-outline.90a4794c525ecbd28709dfda3ba37c15.svg",
+    "static/media/add-circle-outline.svg": "/anytime-mall/static/media/add-circle-outline.0a53e6f32aa84372a436647ab3f06cb4.svg",
+    "static/media/remove-circle-outline.svg": "/anytime-mall/static/media/remove-circle-outline.398352d0fa64c4b4d9708c59a4617327.svg",
+    "static/media/cart.svg": "/anytime-mall/static/media/cart.cc2c73e403cfe058123ba684c5ee5510.svg",
+    "main.3c5ddbee.css.map": "/anytime-mall/static/css/main.3c5ddbee.css.map",
+    "main.d72476d5.js.map": "/anytime-mall/static/js/main.d72476d5.js.map",
+    "787.fe0e4ddc.chunk.js.map": "/anytime-mall/static/js/787.fe0e4ddc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c5ddbee.css",
+    "static/js/main.d72476d5.js"
+  ]
+}
