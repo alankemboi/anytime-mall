@@ -29,7 +29,7 @@ function Navbar() {
     <Nav>
       <NavContainer>
         <Left>
-          <Link to="/">FASHION.</Link>
+          <Link to="/anytime-mall">FASHION.</Link>
         </Left>
 
         <Right>
@@ -43,7 +43,7 @@ function Navbar() {
           >
             <NavList>
               <NavItem>
-                <NavLink to="/" onClick={() => setToggle(!toggle)}>
+                <NavLink to="/anytime-mall" onClick={() => setToggle(!toggle)}>
                   Store
                 </NavLink>
               </NavItem>

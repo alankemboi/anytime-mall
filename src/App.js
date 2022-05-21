@@ -9,7 +9,7 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Store />} />
+        <Route path="/anytime-mall" element={<Store />} />
         <Route exact path="/about" element={<About />} />
         <Route exact path="/cart" element={<Cart />} />
       </Routes>
